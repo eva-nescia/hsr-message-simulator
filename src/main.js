@@ -34,6 +34,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Peppy's emergency contact",
       messages: []
     },
+    'Ashveil': {
+      avatar: '/assets/profile_avatars/ashveil.webp',
+      bio: "Answer",
+      messages: []
+    },
     'Asta': {
       avatar: '/assets/profile_avatars/asta.webp',
       bio: "I shouldn't buy any more stuff...",
@@ -112,6 +117,11 @@ document.addEventListener('DOMContentLoaded', () => {
     'Dr. Ratio': {
       avatar: '/assets/profile_avatars/drratio.webp',
       bio: "\"There's no rush.\"",
+      messages: []
+    },
+    'Evanescia': {
+      avatar: '/assets/profile_avatars/evanescia.webp',
+      bio: "\"March Bunny taking assignments long-term! Also taking other requests!\"",
       messages: []
     },
     'Evernight': {
@@ -319,6 +329,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Don't make a game if you don't know how to",
       messages: []
     },
+    'Silver Wolf LV.999': {
+      avatar: '/assets/profile_avatars/silverwolflv999.webp',
+      bio: "",
+      messages: []
+    },
     'Sparkle': {
       avatar: '/assets/profile_avatars/sparkle.webp',
       bio: "How did you find my number???",
@@ -379,6 +394,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Rules are made to be broken!",
       messages: []
     },
+    'Caelus (Elation)': {
+      avatar: '/assets/profile_avatars/caelus(elation).webp',
+      bio: "Rules are made to be broken!",
+      messages: []
+    },
     'Stelle (Destruction)': {
       avatar: '/assets/profile_avatars/stelle(destruction).webp',
       bio: "Rules are made to be broken!",
@@ -396,6 +416,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     'Stelle (Remembrance)': {
       avatar: '/assets/profile_avatars/stelle(remembrance).webp',
+      bio: "Rules are made to be broken!",
+      messages: []
+    },
+    'Stelle (Elation)': {
+      avatar: '/assets/profile_avatars/stelle(elation).webp',
       bio: "Rules are made to be broken!",
       messages: []
     },
