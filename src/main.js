@@ -9,6 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Time for Departure",
       messages: []
     },
+    'Aeon ★ Aha': {
+      avatar: '/assets/profile_avatars/aeonaha.webp',
+      bio: "Resigned",
+      messages: []
+    },
     'Aglaea': {
       avatar: '/assets/profile_avatars/aglaea.webp',
       bio: "See you at the baths",
@@ -49,6 +54,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Always open to pull for your game account",
       messages: []
     },
+    'Aventurine • Waveflair': {
+      avatar: '/assets/profile_avatars/aventurinewaveflair.webp',
+      bio: "",
+      messages: []
+    },
     'Bailu': {
       avatar: '/assets/profile_avatars/bailu.webp',
       bio: "Drink more warm water and get fewer tempers!",
@@ -61,6 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     'Blade': {
       avatar: '/assets/profile_avatars/blade.webp',
+      bio: "",
+      messages: []
+    },
+    'Mortenax Blade': {
+      avatar: '/assets/profile_avatars/mortenaxblade.webp',
       bio: "",
       messages: []
     },
@@ -159,6 +174,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Working, apologies for the slow response",
       messages: []
     },
+    'Gilgamesh': {
+      avatar: '/assets/profile_avatars/gilgamesh.webp',
+      bio: "Watch and learn — this is how you use the Golden Rule.",
+      messages: []
+    },
     'Guinaifen': {
       avatar: '/assets/profile_avatars/guinaifen.webp',
       bio: "Not causing trouble, not fearing trouble, and no crazy challenges",
@@ -177,6 +197,11 @@ document.addEventListener('DOMContentLoaded', () => {
     'Himeko': {
       avatar: '/assets/profile_avatars/himeko.webp',
       bio: "I can survive without water, but coffee is my lifeblood",
+      messages: []
+    },
+    'Himeko • Nova': {
+      avatar: '/assets/profile_avatars/himekonova.webp',
+      bio: "",
       messages: []
     },
     'Hook': {
@@ -274,6 +299,11 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Doing outpatient runs at the Robot Settlement. Check my availability before you visit",
       messages: []
     },
+    'Pearl': {
+      avatar: '/assets/profile_avatars/pearl.webp',
+      bio: "Signature: Can do art",
+      messages: []
+    },
     'Pela': {
       avatar: '/assets/profile_avatars/pela.webp',
       bio: "Please include your name when providing information",
@@ -294,9 +324,19 @@ document.addEventListener('DOMContentLoaded', () => {
       bio: "Heart unmoved, evil pursued",
       messages: []
     },
+    'Rin Tohsaka': {
+      avatar: '/assets/profile_avatars/rintohsaka.webp',
+      bio: "Gem recycling! Hit me up anytime!",
+      messages: []
+    },
     'Robin': {
       avatar: '/assets/profile_avatars/robin.webp',
       bio: "Let's share our wings with one another.",
+      messages: []
+    },
+    'Robin • Summeretto': {
+      avatar: '/assets/profile_avatars/robinsummeretto.webp',
+      bio: "",
       messages: []
     },
     'Ruan Mei': {
